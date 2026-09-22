@@ -1,0 +1,6 @@
+{
+  "name": "Hospital_Hub",
+  "description": "A comprehensive hospital management application for patient admission, doctor scheduling, department vitals, and medical appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
